@@ -1,0 +1,17 @@
+Ejercicio: 
+
+1).- Encontrar el "producto" mas vendido por mes, entre los años 1999 al 2001.
+     (Sugerencia: Utilizar filtros)
+     Tema: Filtro de datos
+
+
+ 
+2).- Crear dos grupos con las categorias de productos un grupo "phisics product"
+     (hardware) y "digital product" (se puede digitalizar, photos, videos, software)
+     comparar las ventas por ambos grupos entre los años 2000 y 2001
+     Tema: Grupos
+
+
+
+
+ 

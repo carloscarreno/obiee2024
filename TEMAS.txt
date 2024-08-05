@@ -1,0 +1,38 @@
+FASE 1
+[Ya realizado]
+BI 12c: Create Analyses & Dashboards Introduction
+Introduction to Oracle Business Intelligence Enterprise Edition
+Working with Oracle Business Intelligence Analyses
+
+04-07-2024
+Filtering Data for Analyses
+Selecting and Grouping Data for Analysis
+Advance Visualization in Analysis 
+
+09-07-2024
+Showing Results with Pivot Tables
+Working with Additional Views in Analyses
+Visualizing Data on Maps
+
+11-07-2024
+Creating Oracle Business Intelligence Dashboards
+Configuring Oracle Business Intelligence Dashboards
+Creating Dashboard Prompts and Variables
+
+FASE 2
+05-08-2024
+Scorecards and Key Performance Indicators
+Visual Analyzer, BI Ask, and Data Mashup
+
+07-08-2024
+Working with BI Content in Smart View
+Oracle Business Intelligence Mobile App Designer
+Using Oracle Business Intelligence Delivers
+
+09-08-2024
+Administering the Presentation Catalog
+Direct Database Analysis
+
+12-08-2024
+Expressions
+Oracle Business Intelligence Mobile

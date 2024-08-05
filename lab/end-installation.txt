@@ -1,0 +1,37 @@
+Configurar
+    Configuración
+        Componentes
+            Essbase
+            BIEE
+                OBIPS (Puerto 9507)
+                Controlador de cluster (Puerto principal 9508, supervisión 9509)
+                Host Java (Puerto 9510)
+                Programador (Puerto principal 9511, supervisión 9512, script 9513)
+            BIP
+        Dominio
+            Nombre del Dominio de BI: bi
+            Directorio de Dominios: C:\Oracle\Middleware\Oracle_Home\bi\bin\..\..\user_projects\domains
+            Servidor de administración (puerto HTTP 9500, HTTPS 9501, interno 9504)
+            Servidor gestionado (puerto HTTP 9502, HTTPS 9503, interno 9505)
+        Base de Datos
+            Esquemas Existentes
+                    Tipo de Base de Datos: ORACLE
+                Cadena de Conexión: 192.168.56.103:1521:pdb1
+                Prefijo de RCU Existente: OBI
+        Gestión de Puertos
+            Rango de Puertos
+                Inicio de Rango de Puertos: 9500
+                Fin de Rango de Puertos: 9999
+        Aplicación
+            SampleAppLite
+            Clave de Instancia de Servicio: ssi
+            Límite de Instancia de Servicio: 1
+    Puntos de Entrada
+        Consola de WebLogic
+            http://MJ0LCBG4.INDECI.GOB.PE:9500/console
+        Fusion Middleware Control
+            http://MJ0LCBG4.INDECI.GOB.PE:9500/em
+        BI Publisher
+            http://MJ0LCBG4.INDECI.GOB.PE:9502/xmlpserver
+        BI Analytics
+            http://MJ0LCBG4.INDECI.GOB.PE:9502/analytics
