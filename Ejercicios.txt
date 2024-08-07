@@ -1,0 +1,7 @@
+Ejercicio:
+2.- Implementar el indicador "KPI Ventas por Cliente"
+    debe medir las cantidades vendidas por canal a los
+    clientes.
+     Saludable (Green)     Cantidad > AVG
+     Atencion  (Yellow)    AVG >Cantidad> 0.7 AVG
+     Critico   (Red)       0.7 AVG >AVG 
