@@ -1,7 +1,18 @@
 Ejercicio:
+
 2.- Implementar el indicador "KPI Ventas por Cliente"
     debe medir las cantidades vendidas por canal a los
     clientes.
      Saludable (Green)     Cantidad > AVG
      Atencion  (Yellow)    AVG >Cantidad> 0.7 AVG
      Critico   (Red)       0.7 AVG >AVG 
+
+
+3.- Crear una app movil para smart phone con 4 celdas
+    que muestre:
+    1 celda: Los montos de venta por categoria de productos
+    2 celda: Las cantidades vendidas por categoria de productos
+    3 celda: Los montos de venta por año
+    4 celda: Los monsos de venta por canal.
+
+
